@@ -1,7 +1,22 @@
 {
   "name": "Margcoin Genesis #1",
   "description": "Margcoin Genesis NFT #1 — The genesis item of the official 4,999 Margcoin Genesis NFT Collection on the TON Blockchain. Features the iconic animated artwork and unlocks planned ecosystem utilities, rewards, and staking opportunities.",
-  "image": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/lottie-animation.webp",
+  "image": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/Margcoin%20Genesis%20Statics%20NFT%20Image%20.webp",
+  "lottie": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/margcoin-genesis.json",
+  "animation_url": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/lottie-animation.webp",
   "content_url": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/lottie-animation.webp",
-  "animation_url": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/lottie-animation.webp"
+  "attributes": [
+    {
+      "trait_type": "Edition",
+      "value": "Genesis #1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Animated Lottie"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "4,999"
+    }
+  ]
 }
