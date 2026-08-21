@@ -1,12 +1,12 @@
 {
   "name": "Margcoin Genesis",
-  "description": "The official Margcoin Genesis NFT Collection on the TON Blockchain. Limited to 4,999 unique NFTs, this collection represents Margcoin’s first on-chain digital collectible and the beginning of its NFT ecosystem.\n\nGenesis NFT holders will have access to planned ecosystem utilities, rewards, staking opportunities, and future Margcoin experiences.",
   "image": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/Margcoin%20Genesis%20Statics%20NFT%20Image%20.webp",
-  "cover_image": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/Margcoin%20Genesis%20Statics%20NFT%20Image%20.webp",
-  "lottie": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/margcoin-genesis.json",
-  "animation_url": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/lottie-animation.webp",
-  "content_url": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/lottie-animation.webp",
+  "cover_image": "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/NFT%20cover%20.webp",
+  "description": "The official Margcoin Genesis NFT Collection on the TON Blockchain. Limited to 4,999 unique NFTs, this collection represents Margcoin’s first on-chain digital collectible and the beginning of its NFT ecosystem.",
   "social_links": [
-    "https://github.com/alex-dev-create/MARGCOIN"
+    "https://x.com/MargcoinOG",
+    "https://t.me/MargcoinOG",
+    "https://t.me/MargcoinOGBot",
+    "https://t.me/Margcoin_Chat"
   ]
 }
